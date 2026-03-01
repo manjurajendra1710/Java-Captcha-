@@ -31,3 +31,8 @@ This project was created as a beginner-level Java GUI project to understand:
 - GUI components
 - Graphics drawing
 - Image generation in Java
+
+## Author
+Manju Sree S
+B.Tech-Information And Communication Technology
+Sastra Deemed To Be University
